@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "jp.nephy.bdwhudkt",
+    "name": "BbdHUD.Kt",
+    "description": "Bedwar HUD for Hypixel.",
+    "version": "1.0.0",
+    "mcversion": "${mcversion}",
+    "url": "nephy.jp",
+    "updateUrl": "",
+    "authorList": [
+      "Slash Nephy (@SlashNephy)",
+      "Bim (@SubtleBim)"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
